@@ -17,7 +17,6 @@
   <WebUI>http://[IP]:[PORT:3313]</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/transmute-app/unraid-template/main/transmute.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/transmute-app/transmute/refs/heads/main/assets/brand/beaker-red-bg.png</Icon>
-  <ExtraParams>--restart=unless-stopped</ExtraParams>
   <Requires/>
   <Config Name="Web UI Port" Target="3313" Default="3313" Mode="tcp" Description="Port for the Transmute web interface." Type="Port" Display="always" Required="true" Mask="false">3313</Config>
   <Config Name="App Data" Target="/app/data" Default="/mnt/user/appdata/transmute" Mode="rw" Description="Persistent storage for uploads, outputs, and database." Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/transmute</Config>
