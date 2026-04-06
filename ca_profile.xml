@@ -1,6 +1,8 @@
-<?xml version="1.0"?>
-<Profile>
-  <Name>transmute-app</Name>
-  <GithubURL>https://github.com/transmute-app/unraid-template</GithubURL>
-  <ProfileURL>https://raw.githubusercontent.com/transmute-app/unraid-template/main/ca_profile.xml</ProfileURL>
-</Profile>
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/transmute-app/transmute/refs/heads/main/assets/brand/beaker-red-bg.png</Icon>
+  <Profile>
+    Transmute is a free, open source, self-hosted file converter built for privacy and automation. Convert images, video, audio, documents, spreadsheets, subtitles, and fonts entirely locally, with no file size limits and no third-party access to your files.
+  </Profile>
+  <WebPage>https://transmute.sh</WebPage>
+</Maintainer>
