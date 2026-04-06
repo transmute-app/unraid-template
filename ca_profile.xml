@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Profile>
+  <Name>transmute-app</Name>
+  <GithubURL>https://github.com/transmute-app/unraid-template</GithubURL>
+  <ProfileURL>https://raw.githubusercontent.com/transmute-app/unraid-template/main/ca_profile.xml</ProfileURL>
+</Profile>
